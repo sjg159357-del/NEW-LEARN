@@ -1,0 +1,13 @@
+a=13
+b=8
+print(a+b,a-b,a*b,a/b,a//b,a%b)
+a*=a
+print(a)
+
+
+print("=====")
+print("실습 2") #정사각형,정육면체
+a=3
+b=3
+c=3
+print((a+b+c)/3,a**2,a*b*c)
